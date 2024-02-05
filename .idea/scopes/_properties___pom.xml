@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="_properties | pom" pattern="file:src//main//*.properties||file:pom.xml" />
+</component>
